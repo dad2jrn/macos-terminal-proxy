@@ -7,7 +7,7 @@
 [![GitHub release](https://img.shields.io/github/release/dad2jrn/macos-terminal-proxy.svg)](https://github.com/dad2jrn/macos-terminal-proxy/releases)
  [![GitHub license](https://img.shields.io/github/license/dad2jrn/macos-terminal-proxy.svg)](https://github.com/dad2jrn/macos-terminal-proxy/blob/master/LICENSE)
  [![Github all releases](https://img.shields.io/github/downloads/dad2jrn/macos-terminal-proxy/total.svg)](https://github.com/dad2jrn/macos-terminal-proxy/releases)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
+![PyPI - Python Version](https://img.shields.io/badge/pthon-3.6%2B-ff69b4.svg)
 
 
 Allows the MacOS terminal to use the keychain to authenticate to a given proxy.  Ideally this would be used within a corporate setting, however; this could easily be adapted to be used with a personal home proxy setup that requires authentication.
