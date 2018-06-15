@@ -2,7 +2,11 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![GitHub license](https://img.shields.io/github/license/dad2jrn/macos-terminal-proxy.svg)](https://github.com/dad2jrn/macos-terminal-proxy/blob/master/LICENSE) [![Github all releases](https://img.shields.io/github/downloads/dad2jrn/macos-terminal-proxy/total.svg)](https://github.com/dad2jrn/macos-terminal-proxy/releases)
+
+
+[![GitHub release](https://img.shields.io/github/release/dad2jrn/macos-terminal-proxy.svg)](https://github.com/dad2jrn/macos-terminal-proxy/releases)
+ [![GitHub license](https://img.shields.io/github/license/dad2jrn/macos-terminal-proxy.svg)](https://github.com/dad2jrn/macos-terminal-proxy/blob/master/LICENSE)
+ [![Github all releases](https://img.shields.io/github/downloads/dad2jrn/macos-terminal-proxy/total.svg)](https://github.com/dad2jrn/macos-terminal-proxy/releases)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
 
 
