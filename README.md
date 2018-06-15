@@ -6,7 +6,7 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
 
 
-Allows the MacOS terminal to use the keychain to authenticate to a given proxy.  Ideally this owuld be used within a corporate setting, however; this could easily be adapted to use with a personal home proxy setup.
+Allows the MacOS terminal to use the keychain to authenticate to a given proxy.  Ideally this would be used within a corporate setting, however; this could easily be adapted to be used with a personal home proxy setup that requires authentication.
 
 By using the keychain, you do not have to worry about updating your password within your terminal profile every 60-90 days.
 
