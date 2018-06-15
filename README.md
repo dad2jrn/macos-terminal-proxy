@@ -19,7 +19,9 @@ Thsi script will add the terminal profile code to the beginning of your existing
 
 To install this to your terminal profile, just run the following command in your terminal (assuming you have some kind of proxy settings already configured):
 
-        curl https://raw.githubusercontent.com/dad2jrn/macos-terminal-proxy/master/install.py -o $HOME/proxy_install.py && python $HOME/proxy_install.py
+  ```bash
+  curl https://raw.githubusercontent.com/dad2jrn/macos-terminal-proxy/master/install.py -o $HOME/proxy_install.py && python $HOME/proxy_install.py
+  ```
 
 ---
 
